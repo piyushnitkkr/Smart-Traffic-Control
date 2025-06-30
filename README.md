@@ -73,3 +73,7 @@ python train.py \
 ### StreamLit Dashboard
 streamlit run streamlit_app.py
 
+### Demo Video
+I have added a demo video in the repo
+
+
