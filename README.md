@@ -54,7 +54,7 @@ Smart-Traffic-Control/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Smart-Traffic-Control.git
+git clone https://github.com/piyushnitkkr/Smart-Traffic-Control.git
 cd Smart-Traffic-Control
 ```
 
