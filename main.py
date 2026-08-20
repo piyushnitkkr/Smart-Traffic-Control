@@ -20,7 +20,7 @@ WEIGHTS_PATH = "yolov5/runs/train/yolov5x_idd_finetune/weights/best.pt"
 
 def main():
     # Load model
-    model = load_model(weights_path=WEIGHTS_PATH, device='cuda')
+    model = load_model(weights_path=WEIGHTS_PATH, device='cpu')
 
     lane_durations = []
 
